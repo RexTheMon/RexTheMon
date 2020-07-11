@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the COO at BGHDDevelopment (https://github.com/BGHDDevelopment)
+I am the COO at BGHDDevelopment (https://github.com/BGHDDevelopment).
 The only reason I have a GitHub now is to stay up to date with my team's developers.
 
 <!--
