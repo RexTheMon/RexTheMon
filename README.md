@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am the COO at BGHDDevelopment (https://github.com/BGHDDevelopment)
+The only reason I have a GitHub now is to stay up to date with my team's developers.
+
 <!--
 **RexTheMon/RexTheMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
